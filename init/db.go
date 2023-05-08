@@ -27,8 +27,8 @@ func InitDB() {
 
 	cf := MysqlInfo{
 		"root",
-		"Mysql:12138",
-		"219.228.135.107",
+		"xxxx",
+		"219.228.135.xxx",
 		3306,
 		"yaowen",
 	}
